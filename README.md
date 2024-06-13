@@ -38,7 +38,7 @@ const thai = {
   
 </div>
 
-<h2>📞 &nbsp; Connct Me </h2>
+<h2>📞 &nbsp; Contact Me </h2>
 
 <p align="center">
   <a href="https://instagram.com/golshideldar/">
