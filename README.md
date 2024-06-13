@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2>Hi There! I'm Golshid Ebrahimi Deldar 🖐</h2>
 
-<!--
-**golsh1d/golsh1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" width="100%" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  langs: [Javascript, HTML, CSS],
+  tools: [
+    Tailwind,
+    Bootstrap,
+  ],
+};
+```
