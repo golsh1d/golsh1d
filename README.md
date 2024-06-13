@@ -14,6 +14,7 @@ const thai = {
   major : "computer engineering",
   langs: ["Javascript", "HTML", "CSS"],
   tools: ["Tailwind", "Bootstrap"],
+  status : "learning React",
 };
 ```
 </br>
@@ -48,4 +49,3 @@ const thai = {
     <img src="https://img.shields.io/badge/Telegram-@golshideldar-blue?style=flat&logo=telegram" />
   </a>
 </p>
-  
