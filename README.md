@@ -24,7 +24,7 @@ const thai = {
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23593d88.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23593d88.svg?style=for-the-badge&logoColor=white)
   ![NodeJs](https://img.shields.io/badge/nodejs-%5AA74B.svg?style=for-the-badge&logo=node-js&logoColor=white)
   
 </div>
