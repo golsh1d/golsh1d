@@ -12,7 +12,6 @@ const thai = {
   familyName : "Ebrahimi Deldar",
   bithday : "11 May",
   major : "computer engineering",
-  status : "learning React",
 };
 ```
 </br>
