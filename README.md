@@ -30,23 +30,3 @@ const thai = {
   ![MySQL](https://img.shields.io/badge/MySQL-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
 </div>
-
-<h2>⚡️ &nbsp; Github Stats</h2>
-
-<div href="https://github.com/golsh1d" align=center>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=golsh1d&show_icons=true&theme=onedark" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golsh1d" />
-  
-</div>
-
-<h2>📞 &nbsp; Contact Me </h2>
-
-<p align="center">
-  <a href="https://instagram.com/golshideldar/">
-    <img src="https://img.shields.io/badge/Instagram-@golshideldar-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/golshideldar/">
-    <img src="https://img.shields.io/badge/Telegram-@golshideldar-blue?style=flat&logo=telegram" />
-  </a>
-</p>
