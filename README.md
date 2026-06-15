@@ -1,7 +1,7 @@
 <h2>Hi There! I'm Golshid Ebrahimi Deldar</h2>
 
 ```javascript
-const thai = {
+const me = {
   pronouns: "she",
   name : "Golshid",
   familyName : "Ebrahimi Deldar",
