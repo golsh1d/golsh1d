@@ -11,7 +11,7 @@ const thai = {
 ```
 </br>
 
-<h2>🔧 &nbsp; Tech Stack</h2>
+<h2>Tech Stack</h2>
 <div align="center">
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
