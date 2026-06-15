@@ -9,8 +9,6 @@ const thai = {
   major : "computer engineering",
 };
 ```
-</br>
-
 <h2>Tech Stack</h2>
 <div align="center">
 
